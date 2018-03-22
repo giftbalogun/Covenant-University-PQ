@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Covenant University PQ</string>
+    <string name="subject_test1">Select Your Test1 Subject</string>
+    <string name="subject_test2">Select Your Test2 Subject</string>
+    <string name="subject_exam">Select Your Exam Subject</string>
+    <string name="chm111_year">Select Your CHM111 Year</string>
+    <string name="phy111_year">Select Your PHY111 Year</string>
+    <string name="phy112_year">Select Your PHY112 Year</string>
+    <string name="mat111_year">Select Your MAT111 Year</string>
+    <string name="mat112_year">Select Your MAT112 Year</string>
+    <string name="gst111_year">Select Your GST111 Year</string>
+    <string name="tmc111_year">Select Your TMC111 Year</string>
+    <string name="cit111_year">Select Your CIT111 Year</string>
+    <string name="test2_chm111_year">Select Your CHM111 Year</string>
+    <string name="test2_phy111_year">Select Your PHY111 Year</string>
+    <string name="test2_phy112_year">Select Your PHY112 Year</string>
+    <string name="test2_mat111_year">Select Your MAT111 Year</string>
+    <string name="test2_mat112_year">Select Your MAT112 Year</string>
+    <string name="test2_gst111_year">Select Your GST111 Year</string>
+    <string name="test2_tmc111_year">Select Your TMC111 Year</string>
+    <string name="test2_cit111_year">Select Your CIT111 Year</string>
+    <string name="exam_chm111_year">Select Your CHM111 Year</string>
+    <string name="exam_phy111_year">Select Your PHY111 Year</string>
+    <string name="exam_phy112_year">Select Your PHY112 Year</string>
+    <string name="exam_mat111_year">Select Your MAT111 Year</string>
+    <string name="exam_mat112_year">Select Your MAT112 Year</string>
+    <string name="exam_gst111_year">Select Your GST111 Year</string>
+    <string name="exam_tmc111_year">Select Your TMC111 Year</string>
+    <string name="exam_cit111_year">Select Your CIT111 Year</string>
+
+    <string name="subject_year_test1">Select The Year</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_Account">Account</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

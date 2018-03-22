@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smx.engrbalogungift.covenantuniversitypq">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cu"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Test1" />
+        <activity android:name=".Test2" />
+        <activity android:name=".Exam" />
+        <activity android:name=".test1chm111" />
+        <activity android:name=".Contact" />
+        <activity android:name=".cuwebsite" />
+        <activity android:name=".Year_Test1" />
+        <activity android:name=".Year_Test2" />
+        <activity android:name=".Year_Exam" />
+        <activity android:name=".chm111test1year" />
+        <activity android:name=".phy111test1year" />
+        <activity android:name=".phy112test1year" />
+        <activity android:name=".mat111test1year" />
+        <activity android:name=".mat112test1year" />
+        <activity android:name=".gst111test1year" />
+        <activity android:name=".tmc111test1year" />
+        <activity android:name=".cit111test1year" />
+        <activity android:name=".chm111test2year" />
+        <activity android:name=".cit111test2year" />
+        <activity android:name=".gst111test2year" />
+        <activity android:name=".phy111test2year" />
+        <activity android:name=".phy112test2year" />
+        <activity android:name=".mat111test2year" />
+        <activity android:name=".mat112test2year" />
+        <activity android:name=".tmc111test2year" />
+        <activity android:name=".chm111examyear" />
+        <activity android:name=".cit111examyear" />
+        <activity android:name=".gst111examyear" />
+        <activity android:name=".mat111examyear" />
+        <activity android:name=".mat112examyear" />
+        <activity android:name=".phy111examyear" />
+        <activity android:name=".phy112examyear" />
+        <activity android:name=".tmc111examyear"></activity>
+    </application>
+
+</manifest>

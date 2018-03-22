@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_test1"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Study Test 1" />
+        <item
+            android:id="@+id/nav_test2"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Study Test 2" />
+        <item
+            android:id="@+id/nav_exam"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Study Exam" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/contact_us"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Contact Us" />
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About Us" />
+        </menu>
+    </item>
+
+    <item android:title="Activation Of Application">
+        <menu>
+            <item
+                android:id="@+id/activiate"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Activate Your pplication" />
+            <item
+                android:id="@+id/licencecode"
+                android:icon="@drawable/ic_menu_send"
+                android:title="License Application" />
+        </menu>
+    </item>
+
+</menu>
